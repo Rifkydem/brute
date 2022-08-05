@@ -27,7 +27,7 @@ $ git clone https://github.com/Rifkydem/brutefb.git
 $ cd brutefb
 
 
- $ python Brute.py
- 
+ $ python Brute1.py
+
  
  SELAMAT MENCOBA GUYSS:)
